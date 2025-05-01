@@ -16,6 +16,12 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
+dependencies = [
+    "numpy",
+    "tabulate",
+    "colorama",
+    "reportlab"
+]
 license = "MIT"
 license-files = ["LICENSE"]
 
